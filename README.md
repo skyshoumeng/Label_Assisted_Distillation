@@ -1,4 +1,4 @@
-## Official code for our paper [Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation]
+## Official code for our paper: Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation
 
 <pre>
 Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation
