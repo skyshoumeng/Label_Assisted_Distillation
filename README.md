@@ -1,5 +1,5 @@
 <pre>
-Leveraging Smooth Deformation Augmentation for LiDAR Point Cloud Semantic Segmentation
+Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation
 Shoumeng Qiu1, Jie Chen1, Xinrun Li2, Ru Wan3, Xiangyang Xue1, and Jian Pu
 Corresponding-author: Jian Pu
 </pre>
