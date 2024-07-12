@@ -6,6 +6,12 @@ Shoumeng Qiu1, Jie Chen1, Xinrun Li2, Ru Wan3, Xiangyang Xue1, and Jian Pu
 Corresponding-author: Jian Pu
 </pre>
 
+
+<p align="center">
+        <img src="figures/comp_with_others.png" title="Comparision with other methods" width="70%">
+</p> 
+
+
 ## Requirement
 
 Ubuntu 18.04 LTS
