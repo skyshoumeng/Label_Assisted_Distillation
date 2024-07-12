@@ -1,7 +1,10 @@
-#  Noised-labels Help Make a Strong Teacher: A Novel Knowledge Distillation Approach for Semantic Segmentation
+<pre>
+Leveraging Smooth Deformation Augmentation for LiDAR Point Cloud Semantic Segmentation
+Shoumeng Qiu1, Jie Chen1, Xinrun Li2, Ru Wan3, Xiangyang Xue1, and Jian Pu
+Corresponding-author: Jian Pu
+</pre>
 
 This repository contains the source code for our paper [Noised-labels Help Make a Strong Teacher: A Novel Knowledge Distillation Approach for Semantic Segmentation]
-
 
 ## Requirement
 
