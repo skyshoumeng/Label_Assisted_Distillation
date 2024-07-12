@@ -36,7 +36,7 @@ Backbones pretrained on ImageNet:
 ## Performance of Segmentation results on Pascal VOC, * denotes the model takes the noised labels as privileged information. We provided pretrained weights in checkpoints folder.
 
 
-The Pascal VOC dataset for segmentation is available at [Baidu Drive](https://pan.baidu.com/s/1MX2ea7rNRqbDqOKQ8E6XpQ?pwd=d2fp). Our checkpoint files are at (https://github.com/skyshoumeng/Label_Assisted_Distillation/tree/main/checkpoints)
+The Pascal VOC dataset for segmentation is available at [Baidu Drive](https://pan.baidu.com/s/1MX2ea7rNRqbDqOKQ8E6XpQ?pwd=d2fp). Our checkpoint files are at [checkpoints](https://github.com/skyshoumeng/Label_Assisted_Distillation/tree/main/checkpoints)
 
 
 | Teacher | Student | Method | Val mIoU|
