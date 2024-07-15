@@ -2,10 +2,12 @@
 
 <pre>
 Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation
-Shoumeng Qiu1, Jie Chen1, Xinrun Li, Ru Wan, Xiangyang Xue1, and Jian Pu
+Shoumeng Qiu, Jie Chen, Xinrun Li, Ru Wan, Xiangyang Xue, and Jian Pu
 Corresponding-author: Jian Pu
 </pre>
 
+## Abstract
+In this paper, we propose a novel knowledge distillation approach for the semantic segmentation task. Different from previous methods that rely on power-trained teachers or other modalities to provide additional knowledge, our approach does not require complex teacher models or information from extra sensors. Specifically, for the teacher model training, we propose to noise the label and then incorporate it into input to effectively boost the lightweight teacher performance. To ensure the robustness of the teacher model to the noise, we propose an effective dual-path consistency training strategy with a distance loss between the outputs of two paths. For the student model training, we keep it consistent with the standard distillation for simplicity. Our approach can effectively improve the performance of knowledge distillation and offers more flexibility in the choice of models between teachers and students. Extensive experiments on five challenging datasets including Cityscapes, ADE20K, PASCAL-VOC, COCO-Stuff 10K, and COCO-Stuff 164K, five popular models: FCN, PSPNet, DeepLabV3, STDC, and OCRNet, demonstrate the effectiveness and generalization of our approach. We believe that incorporating label into the input as shown in our work will bring insights into the related fields.
 
 <p align="center">
         <img src="figures/comp_with_others.png" title="Comparision with other methods" width="90%">
