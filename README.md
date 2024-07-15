@@ -37,8 +37,7 @@ For more details, please refer to [CIRKD](https://github.com/winycg/CIRKD).
 
 Backbones pretrained on ImageNet:
 
-|[resnet18-imagenet.pth](https://drive.google.com/file/d/1_i0n3ZePtQuh66uQIftiSwN7QAUlFb8_/view?usp=sharing) 
-
+[resnet18-imagenet.pth](https://drive.google.com/file/d/1_i0n3ZePtQuh66uQIftiSwN7QAUlFb8_/view?usp=sharing) 
 
 
 ## Performance of Segmentation results on Pascal VOC, * denotes the model takes the noised labels as privileged information. We provided pretrained weights in checkpoints folder.
