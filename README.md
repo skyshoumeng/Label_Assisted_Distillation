@@ -33,7 +33,7 @@ pip install mmcv-full==1.2.7
 pip install opencv-python==4.5.1.48
 ```
 
-For more details, please refer to CIRKD [https://github.com/winycg/CIRKD].
+For more details, please refer to [CIRKD](https://github.com/winycg/CIRKD).
 
 Backbones pretrained on ImageNet:
 
@@ -57,5 +57,5 @@ The Pascal VOC dataset for segmentation is available at [Baidu Drive](https://pa
 | DeepLabV3-ResNet101| PSPNet-ResNet18* |Ours|75.4 |
 
 
-Our code borrows heavily from CIRKD[https://github.com/winycg/CIRKD], we thank the great opensource project CIRKD.
+Our code borrows heavily from [CIRKD](https://github.com/winycg/CIRKD), we thank the great opensource project CIRKD.
 
